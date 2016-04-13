@@ -1,5 +1,5 @@
 {
-    "name": "huddledigital/zendesk-laravel",
+    "name": "jvalecillos/zendesk-laravel",
     "type": "library",
     "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": ["zendesk"],
@@ -8,7 +8,11 @@
         {
             "name": "Huddle Digital Ltd",
             "email": "info@workwithhuddle.com"
-        }
+        },
+        {
+            "name": "Jose Valecillos",
+            "email": "valecillosjg@gmail.com"
+        },
     ],
     "require": {
         "php": ">=5.4.0",
